@@ -1,0 +1,7 @@
+Data-Post-upsample
+Data-Pre-upsample
+
+nn-SRCNN/eval_syn_S.h5
+nn-SRCNN/train_syn_S.h5
+nn-SRCNN/eval_syn_B.h5
+nn-SRCNN/train_syn_B.h5
